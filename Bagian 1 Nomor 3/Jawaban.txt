@@ -1,0 +1,4 @@
+Polisi = Budi
+Pencuri = Hari
+
+karna si Budi berkata benar

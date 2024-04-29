@@ -1,0 +1,3 @@
+50 * 2 = 100Km
+
+Karna kecepeatan konstan maka S = V*t

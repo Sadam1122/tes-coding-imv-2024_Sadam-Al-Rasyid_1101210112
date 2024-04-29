@@ -1,0 +1,4 @@
+GPU dengan harga = Rp5.000.000 
+Webcam dengan harga = Rp500.000
+
+#karna selisih GPU ialah 5 juta  maka harga webcamnya adalah 500 ribu 5 juta 5 ratus di kurang 5 juta
